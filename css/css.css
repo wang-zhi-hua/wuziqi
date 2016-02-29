@@ -1,0 +1,21 @@
+#canvas{   
+        	display: block;
+        	margin: 0 auto;
+        	box-shadow: 0 0 3px black;
+        	position: absolute;
+        	left: 50%;
+        	right: 50%;
+            margin-left: -300px;
+            background:rgba(255,255,255,0.3);
+            margin-top: 10px;
+
+
+        }
+body{padding: 0;
+	background-image:url(../img/qipan2.jpg);
+	        
+	        background-size:cover;
+}        
+#sucai{display:none;}
+
+
